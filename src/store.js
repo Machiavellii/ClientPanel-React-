@@ -7,7 +7,7 @@ import notifyReducer from './reducers/notifyReducer';
 import settingsReducer from './reducers/settingsReducer';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDCiyglR8ZcmEwthlZckaQa-hQZmIYTI5I',
+  apiKey: '************',
   authDomain: 'reactclientpanel-9cfa3.firebaseapp.com',
   databaseURL: 'https://reactclientpanel-9cfa3.firebaseio.com',
   projectId: 'reactclientpanel-9cfa3',
